@@ -40,4 +40,4 @@
 
 ---
 
-✨ _"Design is intelligence made visible."_ — Alina Wheeler
+
